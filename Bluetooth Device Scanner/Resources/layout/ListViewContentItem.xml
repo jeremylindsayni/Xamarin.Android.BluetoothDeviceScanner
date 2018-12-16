@@ -17,7 +17,7 @@
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:layout_margin="5dp"
-          android:textColor="#ff4081" />
+          android:textColor="#ff5e40" />
       <TextView
           android:id="@+id/txtSubTitle"
           android:layout_width="wrap_content"
